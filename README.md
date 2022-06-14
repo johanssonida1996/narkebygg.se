@@ -2,7 +2,7 @@
 <h1 align="center">A website built for the company Närke bygg</h1>
 <p align="center" First iteration of my portfolio website <a href="https://narkebygg.se/" target="_blank">narkebygg.se</a></p>
 <div align="center">
-   <img src="https://github.com/johanssonida1996/narkebygg.se/blob/master/img/icons/icon-1.png"  width="400"/>
+   <img src="https://github.com/johanssonida1996/narkebygg.se/blob/master/img/narkebyggREADME.PNG"  width="400"/>
 </div>
 
 ## 📜 Description
