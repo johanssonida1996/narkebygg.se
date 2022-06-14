@@ -1,4 +1,3 @@
-# narkebygg.se
 
 <h1 align="center">A website built for the company Närke bygg</h1>
 <p align="center" First iteration of my portfolio website <a href="https://narkebygg.se/" target="_blank">narkebygg.se</a></p>
